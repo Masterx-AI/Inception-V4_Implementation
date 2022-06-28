@@ -1,4 +1,4 @@
-# Inception-V4 Implementation
+## Inception-V4 Model Description:
 
 Paper : Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning .
 
